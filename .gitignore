@@ -1,3 +1,9 @@
 # Служебные файлы Windows/OneDrive
 Thumbs.db
 Desktop.ini
+
+# Личные документы (в публичный репозиторий не публикуются)
+*.docx
+*.doc
+*.pdf
+*.xlsx
